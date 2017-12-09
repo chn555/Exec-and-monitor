@@ -1,0 +1,38 @@
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:24888         0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:24800         0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:24801         0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:24802           0.0.0.0:*               LISTEN     
+tcp6       0      0 ::1:631                 :::*                    LISTEN     
+udp        0      0 0.0.0.0:5353            0.0.0.0:*                          
+udp        0      0 0.0.0.0:5353            0.0.0.0:*                          
+udp        0      0 0.0.0.0:68              0.0.0.0:*                          
+udp        0      0 127.0.0.1:323           0.0.0.0:*                          
+udp        0      0 0.0.0.0:59063           0.0.0.0:*                          
+udp6       0      0 :::5353                 :::*                               
+udp6       0      0 :::5353                 :::*                               
+udp6       0      0 :::38862                :::*                               
+udp6       0      0 ::1:323                 :::*                               
+Bus 002 Device 003: ID 0bda:8153 Realtek Semiconductor Corp. RTL8153 Gigabit Ethernet Adapter
+Bus 002 Device 002: ID 2109:0813 VIA Labs, Inc. 
+Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 001 Device 006: ID 8087:07dc Intel Corp. 
+Bus 001 Device 004: ID 2232:6001 Silicon Motion 
+Bus 001 Device 013: ID 14cd:8601 Super Top 
+Bus 001 Device 012: ID 2109:2813 VIA Labs, Inc. 
+Bus 001 Device 002: ID 05e3:0727 Genesys Logic, Inc. microSD Reader/Writer
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+chn555   tty1         2017-12-09 13:13 (:0)
+Filesystem              1K-blocks    Used Available Use% Mounted on
+devtmpfs                  8135556       0   8135556   0% /dev
+tmpfs                     8148604   13972   8134632   1% /dev/shm
+tmpfs                     8148604    1492   8147112   1% /run
+tmpfs                     8148604       0   8148604   0% /sys/fs/cgroup
+/dev/mapper/fedora-root  36120080 5879856  28375728  18% /
+tmpfs                     8148604      48   8148556   1% /tmp
+/dev/sda2                  999320  181240    749268  20% /boot
+/dev/sda1                  204580   17272    187308   9% /boot/efi
+/dev/mapper/fedora-home  17632552 2136584  14577236  13% /home
+tmpfs                     1629720      48   1629672   1% /run/user/1000
